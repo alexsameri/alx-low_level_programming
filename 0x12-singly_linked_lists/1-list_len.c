@@ -3,6 +3,8 @@
 /**
  * list_len - finds the number of elements
  * in a linked list_t list
+ * size_t: size of the list
+ *
  * @h: the linked list_t list
  * Return: the number of eements in h
  */
